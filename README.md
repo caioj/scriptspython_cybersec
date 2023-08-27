@@ -14,6 +14,7 @@ Este repositório contém uma coleção de scripts em Python desenvolvidos para 
 
 5. `scan_nmap.py`: Um script que utiliza a biblioteca `python-nmap` para executar uma varredura Nmap em um alvo e fornecer detalhes sobre hosts e portas.
 
+6. `brute_force.py`: Esse código em Python realiza a geração de todas as combinações possíveis de caracteres alfanuméricos e de pontuação e as escreve em um arquivo chamado "password.txt".
 ## Requisitos
 
 - Python 3.x
